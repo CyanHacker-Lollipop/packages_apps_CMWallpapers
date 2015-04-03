@@ -37,6 +37,8 @@
         <item>headcase</item>
         <item>iconoclast</item>
         <item>slantstyle</item>
+		<item>cyanwallp</item>
+        <item>cyanwallp2</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -61,5 +63,7 @@
         <item>Headcase - Asher Simonds</item>
         <item>Iconoclast - Asher Simonds</item>
         <item>Slantstyle - Asher Simonds</item>
+        <item>CyanWallp1 - Deniz. C. Kosar</item>
+        <item>CyanWallp2 - Deniz. C. Kosar</item>
     </string-array>
 </resources>
